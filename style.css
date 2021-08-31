@@ -47,7 +47,6 @@ hr {
     margin: 1rem auto;
     border-radius: 2rem;
     background-color: var(--primary-color);
-    font-weight: bold;
 }
 
 .link-secondary {

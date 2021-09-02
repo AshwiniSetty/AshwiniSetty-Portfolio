@@ -51,7 +51,6 @@ hr {
 }
 
 a.link:hover{
-    background-color: var(--gray);   
     color: black;
 }
 
@@ -217,7 +216,7 @@ h2{
 }
 .footer .link{
     color: white;
-    font-size: 2rem;
+    font-size: 1.1rem;
 }
 
 .footer ul{

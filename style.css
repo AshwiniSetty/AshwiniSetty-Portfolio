@@ -110,7 +110,6 @@ a.link:hover{
     background-color: var(--primary-color);
     color: white;
     padding: 0.5rem;
-    border-bottom-left-radius: 1rem;
 }
 
 .navigation .nav-brand {
@@ -123,10 +122,12 @@ a.link:hover{
 
 .navigation .nav-pills {
     text-align: right;
+    font-size: 1.2rem;
 }
 
 .navigation .link-active {
     font-weight: bold;
+    font-size: 1.45rem;
 }
 .hero {
     padding: 2rem;
@@ -202,7 +203,6 @@ h2{
     padding: 1rem;
     text-align: center;
     color: white;
-    border-top-right-radius: 1rem;
 }
 
 .footer .footer-header{
@@ -216,7 +216,7 @@ h2{
 }
 .footer .link{
     color: white;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
 }
 
 .footer ul{
@@ -249,5 +249,8 @@ h2{
   
     .link-primary {
         display: block;
+    }
+    .navigation .nav-pills {
+        text-align: center;
     }
   }
